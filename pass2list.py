@@ -1,7 +1,7 @@
 from itertools import permutations
 import sys
-#only for vscode debug
-char=1
+#only for vscode debug activate this
+#char=1
 if __name__ == "__main__":
     def sets(char):
         with open(output, "w") as file:
