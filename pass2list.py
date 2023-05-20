@@ -53,7 +53,7 @@ if __name__ == "__main__":
                 char = list('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890')
                 break
             else:
-                char = list(charinput)
+                char = charinput
         min = input("input minimum-len : ")
         max = input("input the maximum-len : ")
         output = input('please input the output file path ! ')
